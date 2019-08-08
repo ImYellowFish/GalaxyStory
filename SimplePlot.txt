@@ -1,0 +1,72 @@
+Systems rebooting...OK
+显示器开启
+第三人称摄像头初始化...OK
+窗外一片太空景象
+
+
+Eh... My head... where am I?
+
+Is this a dream?
+
+Can't remember anything...
+
+(on camera log message)
+Uncompressing guidance information... 100%
+
+Greetings, Mr xxx! 
+When you see this image, you should be in a distant galaxy billons of kilo away from our past home.
+Before you set out to build up a space base, you must first learn the controls of this aircraft.
+
+Move the aircraft with WASD on your keyboard.
+
+(Hitting the asteroid) Ouch!
+
+Move the camera with your mouse.
+
+Initializing 3D printer system...
+The aircraft is equipped with 3D printer blablabla
+
+Warning insufficient carbon resource.
+
+Initializing resource collection system...
+
+Press LMB to collect nearby resources. Use camera to aim.
+
+Initializing 3D printer system...
+------------------------------------------------------------------
+Printed a small sun energy collector.
+
+Starting scanning area. (Show minimap)
+
+Surviors found nearby. (Show location)
+
+------------------------------------------------------------------
+
+远远看到另一艘漂流舱。
+
+Another drifter?
+
+漂流舱逐渐启动。
+
+灯光亮了，开始左右移动，撞到陨石。
+
+(Vague voice)
+Ouch！
+
+Hello.. Can you hear me!
+
+(Vague voice)
+Wow! who? aow... Another aircraft?
+
+Initializing
+
+
+
+(地球毁灭。无法在规定时间内找到宜居地点，人们建造了自带生命维持和低温休眠装置的漂流舱，脱离太阳系后，在宇宙中漂流。找到可能宜居的地点时则醒来，尝试建立新基地。
+为了生存几率、精神稳定以及繁衍后代？的考虑，在唤醒驾驶者前会尝试寻找和呼叫最近的飞船)
+
+
+
+
+
+
